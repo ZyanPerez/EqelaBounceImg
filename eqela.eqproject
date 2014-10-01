@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# oct_01
+#
+
+projectname: oct_01
+vendorid: com.oct_01
+mainmodule: com.oct_01.oct01
